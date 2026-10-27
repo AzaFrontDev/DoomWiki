@@ -1,0 +1,18 @@
+body {
+  background-color: #002426;
+  color: #00f0ff;
+  font-family: 'amazdoomleftregular', sans-serif;
+}
+
+.logo, .sys-status {
+  text-align: right
+}
+
+.earth-projection {
+    display: flex;
+    justify-content: center; /* Выравнивание по горизонтали */
+    align-items: center;     /* Выравнивание по вертикали (если у блока есть высота) */
+}
+
+.info-card {
+}
